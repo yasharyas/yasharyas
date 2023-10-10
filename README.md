@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-📱 Mern stack Developer | 🌏 Faridabad, Haryana | ✉️ yasharya2601@gmail.com | ☎️ +91 70656 99918
+📱 Mern stack Developer | 🔗 Web3 Enthusiast | 🌏 Faridabad, Haryana | ✉️ yasharya2601@gmail.com | ☎️ +91 70656 99918
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 

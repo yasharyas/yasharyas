@@ -21,6 +21,7 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 - Python|Streamlit
 
 ## 📜 Certifications
+- Using Git for Distributed Development The Linux Foundation
 - Object-Oriented Data Structures in C++ by University of Illinois
 - CS403: Introduction to Modern Database Systems by Saylor.org
 - The Fundamentals of Digital Marketing

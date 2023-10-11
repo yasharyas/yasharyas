@@ -21,6 +21,8 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 - Python|Streamlit
 
 ## 📜 Certifications
+- Object-Oriented Data Structures in C++ by University of Illinois
+- CS403: Introduction to Modern Database Systems by Saylor.org
 - The Fundamentals of Digital Marketing
 - IBF BLOCKCHAIN WEEK 2023 COMPLETION CERTIFICATE
 - Introduction to Linear Algebra with MATLAB

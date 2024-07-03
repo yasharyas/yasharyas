@@ -18,26 +18,18 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 - Google Cloud Platform
 - Objective C
 - C++
+- C#
+- ASP.NET
 - Python|Streamlit
+- SQL, MYSQL
+- MONGO DB
+- NEXT.js, React.js, Express.js, Vite
+- NODE JS
 
 ## 📜 Certifications
-- Using Git for Distributed Development The Linux Foundation
-- Object-Oriented Data Structures in C++ by University of Illinois
-- CS403: Introduction to Modern Database Systems by Saylor.org
-- The Fundamentals of Digital Marketing
-- IBF BLOCKCHAIN WEEK 2023 COMPLETION CERTIFICATE
-- Introduction to Linear Algebra with MATLAB
-- Solving Ordinary Differential Equations with MATLAB
-- MATLAB Onramp
-- Create and Manage Cloud Resources
-- Elastic Google Cloud Infrastructure: Scaling and Automation
-- Essential Google Cloud Infrastructure: Core Services
-- Essential Google Cloud Infrastructure: Foundation
-- Getting Started with Google Kubernetes Engine
-- Google Cloud Fundamentals: Core Infrastructure
-- Perform Foundational Infrastructure Tasks in Google Cloud
-- Preparing for Your Associate Cloud Engineer Journey
-- Set Up and Configure a Cloud Environment in Google Cloud
+- NPTEL BLOCKCHAIN FOUNDATIONS
+
+- E
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash--arya)
 - [GitHub](https://github.com/yasharyas)

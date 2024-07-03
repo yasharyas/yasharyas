@@ -29,7 +29,6 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 ## 📜 Certifications
 - NPTEL BLOCKCHAIN FOUNDATIONS
 
-- E
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash--arya)
 - [GitHub](https://github.com/yasharyas)

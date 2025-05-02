@@ -16,7 +16,6 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 - Java
 - Dart
 - Google Cloud Platform
-- Objective C
 - C++
 - C#
 - ASP.NET
@@ -25,6 +24,7 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 - MONGO DB
 - NEXT.js, React.js, Express.js, Vite
 - NODE JS
+- Solidity
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akshaysinhaaa&label=Profile%20views&color=d4b3df&style=flat-square" alt="akshay07" /> </p>
 <!-- <img align = "right" alt = coding height = "460px" src="https://github.com/Dksie09/Dksie09/assets/91268240/c402184a-eafa-4707-b483-750354a98cde&ct=g">
@@ -32,6 +32,7 @@ I'm Yash Arya , a passionate Web app developer with a knack for crafting excepti
 
 ## 📜 Certifications
 - NPTEL BLOCKCHAIN FOUNDATIONS
+- NPTEL CLOUD COMPUTING AND DISTRIBUTED SYSTEMS
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yash--arya)

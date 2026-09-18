@@ -1,44 +1,36 @@
 # Yash Arya
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+Design engineer in New Delhi. I do the interface work and then ship it: the flows, the type, the states nobody thinks about, and the code underneath.
 
-📱 Mern stack Developer | 🔗 Web3 Enthusiast | 🌏 Faridabad, Haryana | ✉️ yasharya2601@gmail.com | ☎️ +91 70656 99918
+[yash-arya.com](https://yash-arya.com) · [Bezel gallery](https://bezel-ui.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yash--arya)
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+## Bezel
 
-## 🚀 About Me
+A React component system published as readable TypeScript source, not a black box. 105 components you copy into your project and own.
 
-I'm Yash Arya , a passionate Web app developer with a knack for crafting exceptional cross-platform applications. My journey in the world of technology has equipped me with a wide range of skills, making me a versatile developer ready to tackle any challenge.
-## 🔧 Technical Skills
+```bash
+npm i bezel-ui
+npx bezel-add add morph-dialog
+```
 
-- Flutter
-- React Native
-- Java
-- Dart
-- Google Cloud Platform
-- C++
-- C#
-- ASP.NET
-- Python|Streamlit
-- SQL, MYSQL
-- MONGO DB
-- NEXT.js, React.js, Express.js, Vite
-- NODE JS
-- Solidity
+- **Contrast is a gate.** Every token pair is measured against WCAG AA before release, and the build fails if one drops below it.
+- **Eight states, specified once.** Default, hover, focus-visible, active, disabled, loading, error and empty, checked component by component, with the gaps written down.
+- **Motion that asks permission.** Ambient animation pauses offscreen and respects `prefers-reduced-motion`.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akshaysinhaaa&label=Profile%20views&color=d4b3df&style=flat-square" alt="akshay07" /> </p>
-<!-- <img align = "right" alt = coding height = "460px" src="https://github.com/Dksie09/Dksie09/assets/91268240/c402184a-eafa-4707-b483-750354a98cde&ct=g">
- -->
+[Gallery](https://bezel-ui.vercel.app) · [Source](https://github.com/yasharyas/bezel) · [npm](https://www.npmjs.com/package/bezel-ui)
 
-## 📜 Certifications
-- NPTEL BLOCKCHAIN FOUNDATIONS
-- NPTEL CLOUD COMPUTING AND DISTRIBUTED SYSTEMS
+## Other work
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yash--arya)
-- [GitHub](https://github.com/yasharyas)
-- [Google Cloud skill boost profile1](https://www.cloudskillsboost.google/public_profiles/6c352e60-eda3-49c1-ae5f-db5e51f87fa3)
-- [Google Cloud skill boost profile2](https://www.cloudskillsboost.google/public_profiles/0eb7c336-6191-47ac-a2be-03eb486a5812)
-- [ X ](https://twitter.com/yasharyass)
-Feel free to reach out to me for any collaboration or just to connect. Let's build amazing apps together! 📱🚀
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+- **[Paigam](https://paigam.co.in)** · wedding invitations you send as a link. Designed, priced and shipped solo, from the templates to the deploy.
+- **[What the PDF Lost](https://yash-arya.com/design)** · a case study on designing Paigam: why a shared PDF fails at the one job an invitation has.
+- **[no-as-a-service-web](https://no-as-a-service-web.vercel.app)** · edge runtime, WCAG 2.1 AA.
+
+## How I work
+
+I prototype in the browser rather than in Figma, because that is where a decision actually gets made. A hover that reads well in a static frame can be useless on a phone, and you only find that out by building it.
+
+**Working with:** React, TypeScript, Next.js, Tailwind, Node, PostgreSQL.
+
+## Contact
+
+[yasharya2601@gmail.com](mailto:yasharya2601@gmail.com) · [X](https://x.com/yasharyaaa)

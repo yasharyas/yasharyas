@@ -40,22 +40,6 @@ npx bezel-add add scroll-flip-deck
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="assets/morph-dialog.gif" width="100%" alt="A dialog growing out of the button that opened it">
-
-**MorphDialog.** Grows out of the button you pressed, keeps keyboard focus inside, and hands it back when it closes.
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/scratch-foil-reveal.gif" width="100%" alt="Gold foil being scratched away with the pointer to reveal a message">
-
-**ScratchFoilReveal.** Clear 55% of the foil and it dissolves the rest for you. No keyboard path yet, so it is not finished.
-
-</td>
-</tr>
 </table>
 
 ### contrast is a build gate
